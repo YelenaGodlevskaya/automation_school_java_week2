@@ -5,10 +5,9 @@ package edu.ctco.school.exercise3;
  *
  *  How to fix it?
  */
-class Exercise3
-{
+class Exercise3 {
     class SubExercise3
     {
-        //inner class
-    }
+    //inner class
+}
 }
